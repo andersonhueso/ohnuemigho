@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://roaquequoh.stehstroy.com/sitemap.xml
